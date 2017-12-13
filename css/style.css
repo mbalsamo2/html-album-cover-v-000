@@ -63,7 +63,7 @@ p {
 
 span {
   display: inline-block;
-  font-size: 1em;
+  font-size: .75em;
   line-height: 1em;
   letter-spacing: .3em;
   vertical-align: top;
