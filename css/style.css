@@ -26,30 +26,30 @@ body {
 }
 
 h1 {
-  font-size: 12.25em;
+  font-size: 11em;
   line-height: 1em;
-  letter-spacing: .03em;
+  letter-spacing: .02em;
   margin-bottom: 2px;
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.5em;
   line-height: 1em;
-  letter-spacing: .03em;
+  letter-spacing: .01em;
   margin-bottom: 2px;
 }
 
 h3 {
   font-weight: normal;
-  letter-spacing: .3em;
+  letter-spacing: .25em;
   margin-bottom: 18px;
   line-height: 1em;
 }
 
 h4 {
   font-weight: normal;
-  font-size: .7em;
-  letter-spacing: .4em;
+  font-size: .6em;
+  letter-spacing: .3em;
   margin-bottom: 9px;
   line-height: 1em;
 }
@@ -57,15 +57,15 @@ h4 {
 p {
   font-size: .9em;
   line-height: 1.8em;
-  letter-spacing: .103em;
+  letter-spacing: .085em;
   margin-bottom: 15px;
 }
 
 span {
   display: inline-block;
-  font-size: 1em;
+  font-size: .85em;
   line-height: 1em;
-  letter-spacing: .35em;
+  letter-spacing: .3em;
   vertical-align: top;
   padding-top: 10px;
 }
@@ -95,7 +95,7 @@ img {
   background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
-} 
+}
 
 #back {
   background: rgba(247,211,27,1);
